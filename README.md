@@ -1,10 +1,13 @@
 # Hi, I'm Jack! 👋
 
 ## About Me
-I've been a **Web Developer** since September 2019, with experience in:
-- **WordPress** development using **PHP**, **JavaScript**, and custom **Gutenberg blocks**.
-- Recently exploring **React Native** for mobile app development.
-- Currently focusing on expanding my **frontend** skill set by creating projects with **React** and **Next.js**.
+I've been working as a **Web Developer** since September 2019, and I've gained solid experience with:
+- **WordPress**, including building custom solutions with **PHP**, **JavaScript**, and **Gutenberg blocks**.
+- **React Native** for mobile app development—exploring new ways to create smooth, cross-platform experiences.
+- Right now, I'm diving deeper into **frontend development** with **React** and **Next.js** to keep improving my skills and build more dynamic, high-performance web apps.
+
+I plan to keep this repository updated regularly with personal projects I’m working on, as I experiment with new technologies and improve my coding abilities. You’ll find everything from smaller, fun side projects to more substantial applications I build along the way.
+
 
 ## 🚀 Tech Stack
 - ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
@@ -18,4 +21,4 @@ I've been a **Web Developer** since September 2019, with experience in:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 
 ## 🔗 Links
-- Portfolio (Coming soon): [yourportfolio.com](jackhallett.co.uk)
+- Portfolio: [Coming Soon](jackhallett.co.uk)
